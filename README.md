@@ -6,4 +6,5 @@
 - 💬 Ask me about WHATEVER !
 - 📫 How to reach me: You will find a way ;)
 - ⚡ Fun fact: I Sometimes Stream on Twitch
+
   ![giphy](https://github.com/coderLadyCodes/coderLadyCodes/assets/23296799/07caa200-f6d3-466f-b422-27442505bd65)
